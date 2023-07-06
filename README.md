@@ -1,7 +1,7 @@
 # StackExchange question quality detection
 
 # Problem statement
-Problem statement given [here](https://github.com/Shubh4545/StackExchange-question-quality-detection/blob/70bdf96e0396bd24794deb46ff8337d70dfdb765/StackExchange%20question%20quality%20detection.pdf)
+Problem statement given [here](https://github.com/asifsyiyath/StackExchange-question-quality-detection/blob/main/StackExchange%20question%20quality%20detection.pdf)
 
 # Goal
 Categorise the StackOverflow questions into various quality classes.
